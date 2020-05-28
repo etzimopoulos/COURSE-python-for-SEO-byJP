@@ -143,6 +143,8 @@ You can also find the YouTube content on the two following channels:
 =======
 # 🐍 Python For SEO 🐍(In Progress)
 
+![PythonForSEO](https://sempioneer.com/wp-content/uploads/2020/05/Python-For-SEO.png)
+
 A 40 part free course demonstrating all of the different ways that you can use Python to improve your SEO processes.
 ----
 
@@ -167,44 +169,46 @@ You can also find the YouTube content on the two following channels:
 
 # Course Content:
 
-## [Keywords](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/1_Keywords)
+## Keywords
 
-1. Keyword De-duplication Techniques + Comparing Keyword Lists
-2. Data Manipulation With Pandas + Stemming/Lemmatization With Pandas
+1. [Keyword De-duplication Techniques + Comparing Keyword Lists + Data Manipulation With Pandas + Stemming/Lemmatization With Pandas](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/1_Keywords)
 
-## [Bulk Operations With CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
+## Bulk Operations With CSV Files
 
-3. Combining Multiple CSV Files
+2. [Combining Multiple CSV Files](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/2_bulk_csv_operations)
+3. [Deleting Files, Folders And Specific File Types](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/3_how_to_delete_multiple_local_files)
+
+## Google Cloud Platform Setup
+4. [How To Setup A Google Cloud Project With Google Sheets API Activated](https://github.com/jamesaphoenix/Python_For_SEO/tree/master/4_how_to_setup_a_google_project)
 
 ## Google Sheets
 
-4. Google Sheets With Pygsheets
+5. Google Sheets With Pygsheets & Pandas (How to read and write to google sheets in Python)
 
 ## Screaming Frog Automation
 
-5. Technical SEO Automation with Screaming Frog
+6. Technical SEO Automation with Screaming Frog
 
 ## Images
 
-6. Image Optimisation + Downloading Images From A Website At Scale
+7. Image Optimisation + Downloading Images From A Website At Scale
 
 ## Rendering
 
-7. Identifying Rendering Issues At Scale
+8. Identifying Rendering Issues At Scale
 
 ## Web Scraping & Sitemaps
 
-8. Web Scraping Pages from Sitemap.xml files
-9. Sitemap Automation
+9. Web Scraping Pages from Sitemap.xml files
+10. Sitemap Automation
 
 ## Schema Optimisation
 
-10. How to extract schema at scale
-11. How to create video or article schema At Scale
+11. How to extract schema at scale
+12. How to create video or article schema At Scale
 
-## Google Cloud Platform
+## Google Cloud Platform Continued
 
-12. Google Cloud Platform Setup
 13. Google Page Speed Insights
 14. Creating a BigQuery Datawarehouse with Google Analytics + Google Search Console Data
 
@@ -272,14 +276,16 @@ You can also find the YouTube content on the two following channels:
 38. How to run CRON jobs for SEO
 39. How to run Cloud Functions + Cloud Tasks for SEO
 
+## SEO Migrations
+40. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-40. SEO Split Test Using Python + CausalImpact + Tag Manager
-41. Stratified Sampling Using Google Analytics + Python
-42. SEO Split-Testing Experiments using Google Tag Manager
-43. CausalImpact for SEO
-44. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+41. SEO Split Test Using Python + CausalImpact + Tag Manager
+42. Stratified Sampling Using Google Analytics + Python
+43. SEO Split-Testing Experiments using Google Tag Manager
+44. CausalImpact for SEO
+45. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
