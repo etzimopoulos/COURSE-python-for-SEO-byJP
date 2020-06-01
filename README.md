@@ -221,71 +221,83 @@ You can also find the YouTube content on the two following channels:
 16. Content De-duplication Techniques
 17. Grouping HTML Pages
 
+## The Power Of Python Combinations - https://www.sammyseo.com/product-comparison-keywords/
+
+18. Comparing Keyword Intersections Between Multiple Keyword Lists (from Xn domains)
+19. Comparing Phrase Cominbations By Generating All Possible Phrases For SaaS Alternative Sales Pages
+
+## Algorithm Updates
+
+20. Comparing 5 domains across a series of algorithm updates to find the winners vs loosers
+
 ## DataForSEO Pipelines
 
-18. Creating Data Pipelines with DataForSEO (Data Engineering)
+21. Creating Data Pipelines with DataForSEO (Data Engineering)
 
 ## NLP For SEO
 
-19. Named Entity Recognition & Named Entity Linking
-20. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
-21. Automatic Text Generation & Image Alt Tags / Article Summarisaition
-22. IBM NLP Watson and Google's Natural Language API
-23. Categorising Queries From Google Search Console
+22. Named Entity Recognition & Named Entity Linking
+23. Sentiment Analysis of HTML Pages + Finding Pages with Poor Readability Scores
+24. Automatic Text Generation & Image Alt Tags / Article Summarisaition
+25. IBM NLP Watson and Google's Natural Language API
+26. Categorising Queries From Google Search Console
 
 ## Advanced API Techniques (Combining multiple APIs and blending data sources)
 
-24. How to connect to your Bing API Data
-25. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
-26. Identify Keyword Cannabilisation with GSC + GA
+27. How to connect to your Bing API Data
+28. Combining PPC & GSC Data to uncover new keyword opportunities for paid search
+29. Identify Keyword Cannabilisation with GSC + GA
 
 ## Log File Analysis
 
-27. Log File Analysis
+30. Server Log File Analysis
 
 ## G-suite Automation
 
-28. Google Drive Automation 
+31. Google Drive Automation 
 
 ## Wordpress Automation
 
-29. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
-30. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
-31. Creating JSON-LD Schema With Python
+32. How to automatically update a series of Wordpress Posts from 2019 --> 2020 with the [Wordpress REST API](https://developer.wordpress.org/rest-api/)
+33. How to automatically check all of your blog posts or pages for spelling mistakes - www.grammarbot.io
+34. Creating JSON-LD Schema With Python
 
 ## Social Media Text-Mining
 
-32. Social Media
+35. Creating A Twitter Bot To Automatically Re-tweet Niche Influencer's Posts To Partially Automate Our Twitter Feed
+36. Topic Modelling With Social Media Data
+37. Network Analysis With Social Media Data
+38. How To Do Influencer Research With The Twitter API
 
 ## Intent Classification
 
-33. Intent Classification of Keywords With Deep Learning
+39. Intent Classification of Keywords With Deep Learning
 
 ## Competitor / Content Research
 
-34. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
-35. Find PeopleAlsoAsked Questions
+40. How to automatically track all of your competitors blogging strategy via RSS feeds and email in Python
+41. Find PeopleAlsoAsked Questions
 
 ## Internal Links
 
-36. Internal Links Graphs with NetworkX + Internal Link Recommendations
+42. Internal Links Graphs with NetworkX + Internal Link Recommendations
 
 ## DevOps Automation
 
-37. How to use Selemium With Python
-38. How to run CRON jobs for SEO
-39. How to run Cloud Functions + Cloud Tasks for SEO
+43. How to use Selemium With Python
+44 How to run CRON jobs for SEO
+45. How to run Cloud Functions + Cloud Tasks for SEO
 
 ## SEO Migrations
-40. How To Find A List Of Old URLs with Wayback CDX API
+46. How To Find A List Of Old URLs with Wayback CDX API
 
 ## SEO Testing
 
-41. SEO Split Test Using Python + CausalImpact + Tag Manager
-42. Stratified Sampling Using Google Analytics + Python
-43. SEO Split-Testing Experiments using Google Tag Manager
-44. CausalImpact for SEO
-45. Forecasting SEO Traffic with Sarimax + Facebook Prophet
+47. SEO Split Test Using Python + CausalImpact + Tag Manager
+48. Stratified Sampling Using Google Analytics + Python
+49. SEO Split-Testing Experiments using Google Tag Manager
+50. CausalImpact for SEO
+51. Forecasting SEO Traffic with Sarimax + Facebook Prophet
 
 ----
 
